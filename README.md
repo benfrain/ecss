@@ -1,4 +1,5 @@
-# ecss
+# ECSS / Enduring CSS
+## A guide to writing style sheets for large scale, rapidly changing, long-lived web projects
 
 This repository serves as a place where user currently working with, or considering working with the http://ecss.io methodology can ask any questions and get feedback.
 
